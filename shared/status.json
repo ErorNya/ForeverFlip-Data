@@ -1,5 +1,5 @@
 {
-  "checked_at": 1795028179,
+  "checked_at": 1795525541,
   "format": 1,
   "markets": {
     "CAMWOW EU4 Realm 3 PvE-Alliance": {
@@ -10,7 +10,7 @@
       "published": 12,
       "published_at": 1795028179,
       "reason": null,
-      "recent": 12,
+      "recent": 10,
       "registered": 48,
       "reliable": true,
       "statuses": {
